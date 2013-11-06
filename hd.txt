@@ -2,3 +2,6 @@ df -h
 
 ## Get Curl
 sudo apt-get install curl
+
+## Get RVM
+curl -L https://get.rvm.io | bash -s stable --ruby
