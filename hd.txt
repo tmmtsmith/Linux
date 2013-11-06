@@ -1,1 +1,4 @@
 df -h
+
+## Get Curl
+sudo apt-get install curl
