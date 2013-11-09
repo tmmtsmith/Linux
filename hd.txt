@@ -8,3 +8,8 @@ curl -L https://get.rvm.io | bash -s stable --ruby
 
 ## Check version
 uname -m
+
+## SSH
+## if error "connection refused" install below
+sudo apt-get install openssh-client
+sudo apt-get install openssh-server
