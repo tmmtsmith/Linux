@@ -19,4 +19,4 @@ ssh -D 9999 -C [USER]@localhost
 
 ## Python Pip
 sudo apt-get install python-pip
-## From there pip install [module]
+## From there sudo pip install [module] ## note the sudo will prevent an error
