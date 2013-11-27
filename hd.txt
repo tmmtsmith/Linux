@@ -16,3 +16,7 @@ sudo apt-get install openssh-server
 
 ## if already install run:
 ssh -D 9999 -C [USER]@localhost
+
+## Python Pip
+sudo apt-get install python-pip
+## From there pip install [module]
